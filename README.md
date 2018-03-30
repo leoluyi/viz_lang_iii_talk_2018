@@ -1,6 +1,6 @@
-# 視覺化的語言心法---資料、模型、與溝通 @資策會
+# 視覺化的語言心法---資料、模型、與溝通 @[資策會](https://w3.iiiedu.org.tw/edm_sys/files/dms/20180326123711_1600/edm_index.html)
 
-2018-03-30
+2018-03-31
 
 - [Slides 1](https://leoluyi.github.io/viz_lang_iii_talk_2018/viz_lang_iii_talk_2018.pdf)
 - [Slides 2](https://leoluyi.github.io/viz_lang_iii_talk_2018/)
