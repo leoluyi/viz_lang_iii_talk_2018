@@ -2,11 +2,13 @@ autoscale: true
 footer: © leoluyi, 2018
 slidenumbers: true
 
-# [fit] 視覺化的語言心法
+## [fit] <br/><br/><br/><br/><br/>視覺化的語言心法
 
 ### <br/><br/>資料、模型、與溝通
 
-#### 2018-03-31 leoluyi@iii
+#### 2018-03-31 [leoluyi](https://github.com/leoluyi/)@iii
+
+[`https://goo.gl/uLgwSe`](https://goo.gl/uLgwSe)
 
 ![original](img/red.jpg)
 
