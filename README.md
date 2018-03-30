@@ -1,4 +1,4 @@
-# ggplot2_talk_MLDM_2018
+# 視覺化的語言心法---資料、模型、與溝通 @資策會
 
 - [Slides 1](https://leoluyi.github.io/viz_lang_iii_2018/viz_lang_iii_talk_2018.pdf)
 - [Slides 2](https://leoluyi.github.io/viz_lang_iii_2018/)
