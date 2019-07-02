@@ -1,3 +1,4 @@
+theme: Ostrich, 5
 autoscale: true
 footer: © leoluyi, 2018
 slidenumbers: true
@@ -69,8 +70,8 @@ slidenumbers: true
 
 ### Outlines
 
-- The language of data viz (20 min)
-- Viz the model by example (20 min)
+- The language of data viz (10 min)
+- Viz the model by example (10 min)
 - Summary and Recap (5 min)
 
 ---
